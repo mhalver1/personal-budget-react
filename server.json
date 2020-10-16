@@ -1,0 +1,32 @@
+{"myBudget":
+    [
+        {"title":"Eat out",
+            "budget":25,
+            "color": "#ffcd56"
+            },
+            {"title":"Rent",
+                "budget":375,
+                "color": "#ff6384"
+                },
+                {"title":"Hobbies",
+                    "budget":75,
+                    "color": "#36a2eb"
+                    },
+                    {"title":"College",
+                        "budget":500,
+                        "color": "#fd6b19"
+                        },
+                        {"title":"Electricity",
+                            "budget":50,
+                            "color": "#gg6384"
+                            },
+                            {"title":"Water",
+                                "budget":50,
+                                "color": "#aba2eb"
+                                },
+                                {"title":"Grocery",
+                                    "budget":110,
+                                    "color": "#af6b19"
+                                    }
+                                ]
+                            }
